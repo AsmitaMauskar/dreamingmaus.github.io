@@ -2,5 +2,11 @@
 
 cd "/Users/dreamingmaus/dreamingmausblog" || exit 1
 git add -A
-git commit -m "Website update."
+
+# Only commit if there are changes
+if ! git diff --cached --quiet; then
+  git commit -m "Export update"
+fi
+
+git pull --rebase origin main
 git push origin main
