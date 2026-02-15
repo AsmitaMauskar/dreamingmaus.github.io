@@ -1,6 +1,8 @@
-#!/bin/bash
+#!/usr/bin/env bash
+set -e
 
-cd /Users/dreamingmaus/dreamingmaus
+cd "/Users/dreamingmaus/dreamingmausblog" || exit 1
+
 git add -A
-git commit -m "Website update."
-git push origin main
+git commit -m "Export update" || true
+git push
