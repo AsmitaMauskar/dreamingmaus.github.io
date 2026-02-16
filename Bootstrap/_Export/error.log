@@ -1,35 +1,115 @@
 ----------
 
-Mon Feb 16 2026 16:02:59 GMT+0100 (Central European Standard Time)
+Mon Feb 16 2026 15:24:00 GMT+0100 (Central European Standard Time)
 
-warning: adding embedded git repository: repo/dreamingmaus.github.io
-hint: You've added another git repository inside your current repository.
-hint: Clones of the outer repository will not contain the contents of
-hint: the embedded repository and will not know how to obtain it.
-hint: If you meant to add a submodule, use:
-hint:
-hint: 	git submodule add <url> repo/dreamingmaus.github.io
-hint:
-hint: If you added this path by mistake, you can remove it from the
-hint: index with:
-hint:
-hint: 	git rm --cached repo/dreamingmaus.github.io
-hint:
-hint: See "git help submodule" for more information.
-hint: Disable this message with "git config set advice.addEmbeddedRepo false"
+From github.com:AsmitaMauskar/dreamingmaus.github.io
+ * branch            main       -> FETCH_HEAD
 
 
 ----------
 
-Mon Feb 16 2026 16:03:00 GMT+0100 (Central European Standard Time)
+Mon Feb 16 2026 15:24:00 GMT+0100 (Central European Standard Time)
+
+   f44ad74..c64cf61  main       -> origin/main
+
+
+----------
+
+Mon Feb 16 2026 15:24:00 GMT+0100 (Central European Standard Time)
+
+error: The following untracked working tree files would be overwritten by checkout:
+	Bootstrap/_Export/error.log
+Please move or remove them before you switch branches.
+Aborting
+
+
+----------
+
+Mon Feb 16 2026 15:24:00 GMT+0100 (Central European Standard Time)
+
+error: could not detach HEAD
+
+
+----------
+
+Mon Feb 16 2026 15:24:01 GMT+0100 (Central European Standard Time)
 
 To github.com:AsmitaMauskar/dreamingmaus.github.io
- ! [rejected]        main -> main (fetch first)
+ ! [rejected]        main -> main (non-fast-forward)
 error: failed to push some refs to 'github.com:AsmitaMauskar/dreamingmaus.github.io'
-hint: Updates were rejected because the remote contains work that you do not
-hint: have locally. This is usually caused by another repository pushing to
-hint: the same ref. If you want to integrate the remote changes, use
-hint: 'git pull' before pushing again.
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+----------
+
+Mon Feb 16 2026 15:25:07 GMT+0100 (Central European Standard Time)
+
+From github.com:AsmitaMauskar/dreamingmaus.github.io
+ * branch            main       -> FETCH_HEAD
+
+
+----------
+
+Mon Feb 16 2026 15:25:07 GMT+0100 (Central European Standard Time)
+
+error: cannot rebase: You have unstaged changes.
+
+
+----------
+
+Mon Feb 16 2026 15:25:07 GMT+0100 (Central European Standard Time)
+
+error: Please commit or stash them.
+
+
+----------
+
+Mon Feb 16 2026 15:25:08 GMT+0100 (Central European Standard Time)
+
+To github.com:AsmitaMauskar/dreamingmaus.github.io
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'github.com:AsmitaMauskar/dreamingmaus.github.io'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+----------
+
+Mon Feb 16 2026 15:32:14 GMT+0100 (Central European Standard Time)
+
+From github.com:AsmitaMauskar/dreamingmaus.github.io
+ * branch            main       -> FETCH_HEAD
+
+
+----------
+
+Mon Feb 16 2026 15:32:14 GMT+0100 (Central European Standard Time)
+
+error: cannot rebase: You have unstaged changes.
+
+
+----------
+
+Mon Feb 16 2026 15:32:14 GMT+0100 (Central European Standard Time)
+
+error: Please commit or stash them.
+
+
+----------
+
+Mon Feb 16 2026 16:16:06 GMT+0100 (Central European Standard Time)
+
+To github.com:AsmitaMauskar/dreamingmaus.github.io
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'github.com:AsmitaMauskar/dreamingmaus.github.io'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 
