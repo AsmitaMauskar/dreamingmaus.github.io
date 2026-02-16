@@ -8,5 +8,4 @@ if ! git diff --cached --quiet; then
   git commit -m "Export update"
 fi
 
-git pull --rebase origin main
 git push origin main
