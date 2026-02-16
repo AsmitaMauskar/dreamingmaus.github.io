@@ -1,0 +1,8 @@
+:root, [data-bs-theme=light] {
+  --bs-body-bg: #f5d3d3;
+  --bs-body-bg-rgb: 245,211,211;
+  --bs-body-font-family: 'Crafty Girls', serif;
+  --bs-link-color: rgb(239,113,113);
+  --bs-link-color-rgb: 239,113,113;
+}
+

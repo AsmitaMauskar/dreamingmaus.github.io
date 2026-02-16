@@ -1,0 +1,51 @@
+:root, [data-bs-theme=light] {
+  --bs-body-bg: #fbe8e8;
+  --bs-body-bg-rgb: 251,232,232;
+  --bs-body-font-family: 'Crafty Girls', serif;
+  --bs-link-color: rgb(239,113,113);
+  --bs-link-color-rgb: 239,113,113;
+}
+
+.py-3 {
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.py-4 {
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
+}
+
+.py-5 {
+  padding-top: 3rem !important;
+  padding-bottom: 3rem !important;
+}
+
+.pt-2 {
+  padding-top: .5rem !important;
+}
+
+.pe-0 {
+  padding-right: 0 !important;
+}
+
+.pb-0 {
+  padding-bottom: 0 !important;
+}
+
+.pb-5 {
+  padding-bottom: 3rem !important;
+}
+
+.ps-0 {
+  padding-left: 0 !important;
+}
+
+.ps-4 {
+  padding-left: 1.5rem !important;
+}
+
+.ps-6 {
+  padding-left: 4.5rem !important;
+}
+
